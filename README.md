@@ -54,5 +54,4 @@ pip install pandas requests numpy scipy matplotlib lightgbm scikit-learn
 
 2. Get API Key
 
-# In the .ipynb file
 API_KEY = "YOUR_API_KEY" # Replace with your actual key
